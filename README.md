@@ -1,4 +1,4 @@
-# Cartes Créatures et Oppositions (bêta)
+# Cartes Créatures et Oppositions
 Une carte au format A5 permettant de lister toutes les statistiques essentielles d'une créature ou d'un PNJ en vue d'un combat.
 
 **/!\ Pour un résultat optimal, nous vous conseillons d'utiliser un logiciel PDF tel qu'Adobe Acrobat pour compléter les différents champs de formulaire.**
